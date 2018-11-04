@@ -1,0 +1,129 @@
+  p{
+    
+    text-align: justify;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font: display 45;
+  }
+
+  body{
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+  }
+  
+  em{
+    font-style: italic;
+    letter-spacing: 2px;
+  } 
+   
+  h1{
+    font-size: 40px;
+    font-family:initial;
+    font-weight: lighter;
+    border-bottom: 5px solid rgb(151, 196, 125);
+    text-align: center;
+    display: block;
+  }
+
+  h2{
+    display: inline;
+    padding-right: 30px;  
+    font-size: 28px;
+    font-weight: lighter;
+    
+    text-align: left;
+  }
+
+  .contenido{
+    font-family: Helvetica, sans-serif, Arial;
+    width: 70%;
+    margin: 0px auto;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.808);
+    padding: 100px 80px 30px 80px;
+  }
+  
+  .menu {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.767);
+    position: absolute;
+    width: 100%;
+    
+    background-color: rgba(97, 28, 28, 0.808);
+  }
+  .menu ul {
+    list-style-type: none;
+    margin-top: 0px;
+  }
+  .menu ul li {
+    display: inline-block;
+    margin: 5px 20px 5px 20px;
+    padding: 10px;
+    
+  }
+  .menu ul li:hover  a {
+    font-weight: bolder;
+    color: rgb(190, 206, 118);
+  }
+  .menu ul li a {
+    font-family: Helvetica, sans-serif, Arial;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+  }
+
+  .titulo{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-bottom:  rgb(117, 27, 5);
+  }
+
+  
+  
+
+ 
+
+  .glosario{
+    height: 680px;
+  }
+
+  .centrar{
+    text-align: center;
+  }
+
+  .derecha{
+    text-align: right
+  }
+
+  #foto-autor{
+    float: left;
+    margin-right: 15px;
+    border-radius: 10%;
+    box-shadow: 0 0 3px black;
+  }
+
+  #se{
+    border-bottom: rgb(214, 224, 124);
+   
+  }
+
+  #seleccion a{
+    font-weight: bolder;
+    color: rgb(191, 218, 142);
+  }
+
+  #imagen-cabecera{
+    width: 100%;
+    
+  }
+
+  #frases li{
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 45;
+  }
